@@ -7,3 +7,4 @@ This project includes programs which covers the basic python concepts
 -arrays 
 -regular expressions 
 -numpy function
+-using classes and functions
